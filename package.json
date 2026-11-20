@@ -1,0 +1,7 @@
+{
+  "name": "shared-apartment-expense-splitter",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Offline, Arabic-first shared apartment expense splitter",
+  "scripts": {"test": "node --test core.test.cjs", "start": "python -m http.server 8000"}
+}
